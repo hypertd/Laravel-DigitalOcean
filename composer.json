@@ -12,7 +12,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/hypertd/Laravel-DigitalOcean"
+            "url": "https://github.com/hypertd/DigitalOceanV2"
         }
     ],
     "require": {
